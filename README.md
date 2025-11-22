@@ -1,16 +1,41 @@
-# sales_bets
+📱 Sales Bets – Flutter Demo App
+This project is a simplified demonstration of the Sales Bets concept provided for the technical interview.
+It includes modern UI screens, navigation, and structured architecture.
 
-A new Flutter project.
+✨ Features Implemented
+Home Dashboard
+Sales overview cards
+Quick navigation
+Clean and modern UI
+Bet Screen
+Placeholder interface
+Ready to extend for real‐time betting
+Reports
+Chart placeholders
+Weekly sales
+Growth
+Category insights
+Profile
+User info
+Edit profile button
+Settings options
+Logout
 
-## Getting Started
+📸Screenshots
+Home Screen
+Bet Screen
+Reports
+Profile
 
-This project is a starting point for a Flutter application.
+🏗️ Architecture
+Flutter
+Clean folder structure
+Ready for Firebase integration
 
-A few resources to get you started if this is your first Flutter project:
+📦 How to Run
+flutter pub get
+flutter run
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📝 Notes
+Due to technical limitations, a Loom video could not be recorded.
+However, all architecture decisions and UI flow are documented clearly here.
